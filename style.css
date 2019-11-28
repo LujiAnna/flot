@@ -36,5 +36,6 @@ button {
 
 adress {
     font-size:1.2em;
-display: block;
+    display: block;
+    padding: 8px;
 }
